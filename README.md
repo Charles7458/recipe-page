@@ -23,8 +23,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Built with
 
 - CSS custom properties
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
