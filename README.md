@@ -22,7 +22,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Built with
 
-- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
